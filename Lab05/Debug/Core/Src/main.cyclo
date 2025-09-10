@@ -1,0 +1,16 @@
+../Core/Src/main.c:104:23:octal_step	2
+../Core/Src/main.c:109:13:Run_Starting_Lights	1
+../Core/Src/main.c:140:6:HAL_GPIO_EXTI_Callback	19
+../Core/Src/main.c:181:13:Track_Show_J1	9
+../Core/Src/main.c:203:13:Track_Show_J2	9
+../Core/Src/main.c:226:13:Lights_AllOff	1
+../Core/Src/main.c:233:13:Lights_Red	1
+../Core/Src/main.c:240:13:Lights_Yellow	1
+../Core/Src/main.c:247:13:Lights_Green	1
+../Core/Src/main.c:255:20:Winner_J1	1
+../Core/Src/main.c:262:20:Winner_J2	1
+../Core/Src/main.c:269:20:Reset_Game	1
+../Core/Src/main.c:292:5:main	3
+../Core/Src/main.c:323:6:SystemClock_Config	3
+../Core/Src/main.c:362:13:MX_GPIO_Init	1
+../Core/Src/main.c:427:6:Error_Handler	1
