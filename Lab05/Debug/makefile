@@ -60,8 +60,8 @@ all: main-build
 main-build: Lab05.elf secondary-outputs
 
 # Tool invocations
-Lab05.elf Lab05.map: $(OBJS) $(USER_OBJS) C:\Users\mario\OneDrive\Documentos\GitHub\Lab05\STM32F446RETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "Lab05.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\mario\OneDrive\Documentos\GitHub\Lab05\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Lab05.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Lab05.elf Lab05.map: $(OBJS) $(USER_OBJS) C:\Users\mario\OneDrive\Documentos\GitHub\Digital_2\Lab05\STM32F446RETX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "Lab05.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\mario\OneDrive\Documentos\GitHub\Digital_2\Lab05\STM32F446RETX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Lab05.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

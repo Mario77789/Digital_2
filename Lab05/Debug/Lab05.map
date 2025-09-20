@@ -2850,18 +2850,18 @@ LOAD C:/Users/mario/OneDrive/Documentos/GitHub/STM32CubeIDE_1.19.0/STM32CubeIDE/
  .debug_line    0x00004538      0xe0a ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
  .debug_line    0x00005342     0x14bb ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
 
-.debug_str      0x00000000    0xc584f
- .debug_str     0x00000000    0xc584f ./Core/Src/main.o
-                              0xc4909 (size before relaxing)
- .debug_str     0x000c584f    0xc0de7 ./Core/Src/stm32f4xx_hal_msp.o
- .debug_str     0x000c584f    0xc0d91 ./Core/Src/stm32f4xx_it.o
- .debug_str     0x000c584f    0xc0966 ./Core/Src/system_stm32f4xx.o
- .debug_str     0x000c584f       0x7a ./Core/Startup/startup_stm32f446retx.o
- .debug_str     0x000c584f    0xc152b ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
- .debug_str     0x000c584f    0xc1282 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
- .debug_str     0x000c584f    0xc0ae1 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
- .debug_str     0x000c584f    0xc0d9f ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
- .debug_str     0x000c584f    0xc0dd2 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
+.debug_str      0x00000000    0xc588f
+ .debug_str     0x00000000    0xc588f ./Core/Src/main.o
+                              0xc4913 (size before relaxing)
+ .debug_str     0x000c588f    0xc0de7 ./Core/Src/stm32f4xx_hal_msp.o
+ .debug_str     0x000c588f    0xc0d91 ./Core/Src/stm32f4xx_it.o
+ .debug_str     0x000c588f    0xc0966 ./Core/Src/system_stm32f4xx.o
+ .debug_str     0x000c588f       0x7a ./Core/Startup/startup_stm32f446retx.o
+ .debug_str     0x000c588f    0xc152b ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.o
+ .debug_str     0x000c588f    0xc1282 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.o
+ .debug_str     0x000c588f    0xc0ae1 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.o
+ .debug_str     0x000c588f    0xc0d9f ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.o
+ .debug_str     0x000c588f    0xc0dd2 ./Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.o
 
 .comment        0x00000000       0x43
  .comment       0x00000000       0x43 ./Core/Src/main.o
