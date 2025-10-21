@@ -1,0 +1,8 @@
+../Core/Src/uart_gamepad.c:24:23:calc_dir	6
+../Core/Src/uart_gamepad.c:34:13:apply	2
+../Core/Src/uart_gamepad.c:40:13:parse_segment	11
+../Core/Src/uart_gamepad.c:60:13:on_byte	6
+../Core/Src/uart_gamepad.c:69:6:Gamepad_Init	1
+../Core/Src/uart_gamepad.c:76:6:HAL_UART_RxCpltCallback	3
+../Core/Src/uart_gamepad.c:84:6:Gamepad_GetP1	2
+../Core/Src/uart_gamepad.c:85:6:Gamepad_GetP2	2

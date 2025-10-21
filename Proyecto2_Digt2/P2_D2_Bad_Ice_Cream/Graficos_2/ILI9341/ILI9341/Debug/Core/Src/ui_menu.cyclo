@@ -1,0 +1,10 @@
+../Core/Src/ui_menu.c:40:13:draw_bg	1
+../Core/Src/ui_menu.c:41:13:draw_helados	1
+../Core/Src/ui_menu.c:45:13:patch_bg	6
+../Core/Src/ui_menu.c:52:13:move_selection	5
+../Core/Src/ui_menu.c:67:12:process_player	12
+../Core/Src/ui_menu.c:86:13:action_edge	3
+../Core/Src/ui_menu.c:94:6:Menu_Init	1
+../Core/Src/ui_menu.c:101:6:Menu_Tick	6
+../Core/Src/ui_menu.c:122:5:Menu_GetIndex	1
+../Core/Src/ui_menu.c:124:6:Menu_ActionPressed	3

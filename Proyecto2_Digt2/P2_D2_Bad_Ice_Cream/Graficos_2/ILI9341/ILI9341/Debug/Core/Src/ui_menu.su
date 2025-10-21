@@ -1,0 +1,10 @@
+../Core/Src/ui_menu.c:40:13:draw_bg	16	static
+../Core/Src/ui_menu.c:41:13:draw_helados	24	static
+../Core/Src/ui_menu.c:45:13:patch_bg	40	static
+../Core/Src/ui_menu.c:52:13:move_selection	24	static
+../Core/Src/ui_menu.c:67:12:process_player	32	static
+../Core/Src/ui_menu.c:86:13:action_edge	24	static
+../Core/Src/ui_menu.c:94:6:Menu_Init	8	static
+../Core/Src/ui_menu.c:101:6:Menu_Tick	48	static
+../Core/Src/ui_menu.c:122:5:Menu_GetIndex	4	static
+../Core/Src/ui_menu.c:124:6:Menu_ActionPressed	32	static
