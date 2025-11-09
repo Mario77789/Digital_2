@@ -1,0 +1,9 @@
+../Core/Src/input.c:19:20:q_push	24	static
+../Core/Src/input.c:24:6:Input_TryDequeue	16	static
+../Core/Src/input.c:31:23:calc_dir	24	static
+../Core/Src/input.c:41:24:clamp_u12	16	static
+../Core/Src/input.c:47:13:apply_event	40	static
+../Core/Src/input.c:59:13:parse_segment	328	static
+../Core/Src/input.c:82:13:on_byte	16	static
+../Core/Src/input.c:97:6:Input_Init	16	static
+../Core/Src/input.c:103:6:Input_RxIRQ_Handler	8	static
